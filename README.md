@@ -1,3 +1,7 @@
+-> PT-BR: Primeiramente, este é meu projeto inaugural, desenvolvido durante um curso na Alura, onde segui as diretrizes do Figma para a construção deste site utilizando React e JavaScript. A página tem como propósito a criação de cards para sete equipes, cada uma capaz de acomodar até quatro cards individuais. Importante ressaltar que, ao inserir uma imagem, é necessário incluir a extensão '.png' ao final do arquivo.
+-> EN: My first project created in an Alura course, where I followed Figma's foundations to develop this website using React and JavaScript. The page involves the creation of cards for seven teams, each supporting up to four cards. Please note that when adding an image, it is necessary to include '.png' at the end.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
