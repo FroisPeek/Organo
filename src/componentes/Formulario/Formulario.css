@@ -1,0 +1,16 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.formulario form {
+    background: rgba(230, 227, 227, 0.35);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 20px;
+    border: 1px solid rgba(32, 15, 15, 0.18);
+    max-width: 4096px;
+    padding: 36px 64px;
+}
